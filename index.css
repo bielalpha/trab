@@ -1,0 +1,151 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+h4 {
+    opacity: 0.3;
+}
+
+img {
+    border-radius: 20px;
+}
+
+.contact {
+    display: block;
+    text-align: right;
+    font-weight: bold;
+}
+
+.word {
+    margin-right: 20px;
+}
+
+
+.post-container {
+    position: relative;
+    margin: 20px 20px 0 0;
+    overflow: auto;
+    left: 500px;
+    top: 150px;
+}
+
+.post-thumb {
+    float: left;
+    padding: 30px;
+}
+
+.post-thumb img {
+    display: block;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.post-content {
+    margin-top: 50px;
+    margin-left: 210px;
+}
+
+.post-title {
+    font-weight: bold;
+    font-size: 200%;
+}
+
+button {
+    background-color: #FFF;
+    border: 1px black solid;
+    color: black;
+    padding: 10px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.jafiz {
+    position: absolute;
+    top: 500px;
+    margin-left: 50px;
+}
+
+.item_1 {
+    width: 700px;
+    background-color: #FFF;
+    border: 1px black solid;
+    color: black;
+    padding: 10px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    position: absolute;
+    top: 600px;
+    margin-left: 50px;
+}
+.item_2 {
+    width: 700px;
+    left: 750px;
+    background-color: #FFF;
+    border: 1px black solid;
+    color: black;
+    padding: 10px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    position: absolute;
+    top: 600px;
+    margin-left: 50px;
+}
+.item_3 {
+    width: 700px;
+    background-color: #FFF;
+    border: 1px black solid;
+    color: black;
+    padding: 10px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    position: absolute;
+    top: 780px;
+    margin-left: 50px;
+}
+.item_4 {
+    width: 700px;
+    left: 750px;
+    background-color: #FFF;
+    border: 1px black solid;
+    color: black;
+    padding: 10px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    position: absolute;
+    top: 780px;
+    margin-left: 50px;
+}
+
+.container_item {
+    bottom: 300px;
+    position: relative;
+    left: 150px;
+}
